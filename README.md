@@ -5,7 +5,7 @@ Problem statement : Create a simple dropdown component using React.
 ================
 Folder structure 
 ================
-
+<pre>
 │   .gitignore
 │   package-lock.json
 │   package.json
@@ -24,6 +24,8 @@ Folder structure
     └───Dropdown
             dropdown.js
             dropdown.module.css
+
+<pre>            
 
 
 ========================
