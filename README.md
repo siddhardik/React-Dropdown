@@ -25,7 +25,7 @@ Folder structure
             dropdown.js
             dropdown.module.css
 
-<pre>            
+</pre>            
 
 
 ========================
