@@ -1,0 +1,66 @@
+div {
+    width:100% ;
+    height:100vh;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(2, 2, 54);
+}
+
+/* Styling for the initial option or select buttons */
+.initialOption {
+    background-color: rgba(26, 105, 32, 0.799);
+    display: flex;
+    justify-content: center;
+    margin-left: 39%;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 23%;
+    height: 9vh;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: cursive, sans;
+    margin-bottom: 5px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: aqua;
+}
+
+/* Style of the option div, in which the list arrayLoop is running */
+.option {
+    display: flex;
+
+    padding-left: 10px;
+
+    align-items: center;
+
+}
+
+/* Single div */
+.singleOption {
+
+
+    display: flex;
+    background-color: rgba(233, 233, 239, 0.756);
+    justify-content: center;
+    width: 23%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(1, 2, 12);
+    font-size: 20px;
+    font-weight: 600;
+    height: 6vh;
+    padding: 0px;
+    margin-left: 39%;
+}
+
+.singleOption:hover {
+    background-color: white;
+    cursor: pointer;
+    border: 2px solid rgb(10, 196, 199);
+    color: black;
+}
