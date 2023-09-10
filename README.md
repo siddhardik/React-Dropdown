@@ -37,5 +37,7 @@ How to start the project
 03. write "npm install " to install all library dependencies
 04. write "npm start" to start the project
 
+// Write "npm run build" to build the project and host it on netlify.com
+
 
 
